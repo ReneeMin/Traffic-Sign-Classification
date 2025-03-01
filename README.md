@@ -8,6 +8,7 @@ This dataset (in the folder `TrafficSignData`) contains 15540 images for 15 traf
 the images are saved in ppm files in different folders. Each folder represents one class of traffic
 signs. In each folder, there is a csv file that includes the filenames in the folder, the width and height of each image, the Region of interest (x1,y1,x2,y2 illustrated in the image below) of each image, and the class ID or the output label.
 
+![Traffic Sign Sample](Images/sample.png)
 
 
 ## Introduction to the files
